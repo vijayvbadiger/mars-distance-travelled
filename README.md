@@ -43,7 +43,7 @@ Step Size: 24 hours
 Distance Condition: Distance between Mars and Earth over time.
 
  Results
-<img width="1437" alt="Screenshot 2025-01-23 at 4 25 31 PM" src="https://github.com/user-attachments/assets/8eb2c57e-3500-466d-b581-7612411aa668" />
+<img width="1433" alt="Screenshot 2025-01-21 at 1 52 48 PM" src="https://github.com/user-attachments/assets/f138e88d-759b-4999-ac94-2e8b9883fc6d" />
 also in .csv file
 
  
